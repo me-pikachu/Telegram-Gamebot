@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.7.1
+python_telegram_bot==13.11
+telegram==0.0.1
+telepot==12.7
